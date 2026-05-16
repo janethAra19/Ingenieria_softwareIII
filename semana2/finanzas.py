@@ -12,7 +12,7 @@ ahorro = costo_actual * 0.08
 crecimiento = ((usuarios_nuevos - usuarios_anteriores) / usuarios_anteriores * 100)
 
 print("La ganancia es de" ,  ganancia)
-print(f"La ganancia es de {ganancia}")
-print(f"El margen de ganancia es {margen}")
-print(f"Ahorro mensual:  {ahorro}")
-print(f"Crecimieto de usuarios {crecimiento}")
+print(f"Ganacia por unidad : {ganancia}")
+print(f"Margen de ganancia : {margen}")
+print(f"Ahorro mensual :  {ahorro}")
+print(f"Crecimieto de usuarios : {crecimiento}")
