@@ -1,0 +1,7 @@
+print("=========================")
+print("    FICHA DE CONTACTO    ")
+print("=========================")
+print("Nombre: Gladis Janeth Ara Santiz")
+print("carrera: Ing. en sistemas")
+print("Ciudad: Teopisca , chiapas")
+print("=========================")
