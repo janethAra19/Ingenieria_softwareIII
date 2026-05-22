@@ -1,7 +1,3 @@
-# ¿Qué problema resuelve? Los estudiantes pierden seguimiento de tareas y fechas importantes
-# ¿Quién lo usa y paga? Estudiantes universitarios que pagan suscripción mensual
-# ¿Cómo genera dinero? Modelo de suscripción mensual por usuario
-
 print('============================================')
 print()
 print('Nombre         : EduTrack')
